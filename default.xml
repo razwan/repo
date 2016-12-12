@@ -4,6 +4,20 @@
   <!-- Remotes -->
   <remote name="gh" fetch="https://github.com/" />
 
+  <project path="themes/border" name="pixelgrade/border" remote="gh" revision="border" />
+  <project path="themes/gema" name="pixelgrade/gema" remote="gh" revision="gema" />
+  <project path="themes/heap" name="pixelgrade/heap" remote="gh" revision="heap" />
   <project path="themes/hive" name="pixelgrade/hive" remote="gh" revision="hive" />
+  <project path="themes/jason" name="pixelgrade/jason" remote="gh" revision="jason" />
+  <project path="themes/lens" name="pixelgrade/lens" remote="gh" revision="lens" />
+  <project path="themes/listable" name="pixelgrade/listable" remote="gh" revision="listable" />
+  <project path="themes/mies" name="pixelgrade/mies" remote="gh" revision="mies" />
+  <project path="themes/noah" name="pixelgrade/noah" remote="gh" revision="noah" />
+  <project path="themes/osteria" name="pixelgrade/osteria" remote="gh" revision="osteria" />
+  <project path="themes/patch" name="pixelgrade/patch" remote="gh" revision="patch" />
+  <project path="themes/pile" name="pixelgrade/pile" remote="gh" revision="pile" />
+  <project path="themes/rosa" name="pixelgrade/rosa" remote="gh" revision="rosa" />
+  <project path="themes/silk" name="pixelgrade/silk" remote="gh" revision="silk" />
+  <project path="themes/timber" name="pixelgrade/timber" remote="gh" revision="timber" />
 
 </manifest>
