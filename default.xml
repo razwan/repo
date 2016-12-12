@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="pixelgrade/github"
-           fetch="https://github.com/pixelgrade"/>
-  <default revision="master"
-           remote="pixelgrade/github"
-           sync-j="4" />
+  <!-- Remotes -->
+  <remote name="gh" fetch="git://github.com/" />
 
-  <project path="themes/hive" name="hive.git" />
+  <project path="themes/hive" name="pixelgrade/hive" remote="gh" revision="hive" />
 
 </manifest>
