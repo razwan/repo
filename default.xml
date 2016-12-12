@@ -4,7 +4,7 @@
   <remote  name="pixelgrade-repo"
            fetch="https://github.com/razwan/repo.git"/>
   <default revision="master"
-           remote="git"
+           remote="pixelgrade-repo"
            sync-j="4" />
 
   <project path="themes/hive" name="https://github.com/pixelgrade/hive.git" remote="pixelgrade-repo"/>
