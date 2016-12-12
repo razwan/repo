@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="pixelgrade-repo"
+           fetch="https://github.com/razwan/repo.git"/>
+  <default revision="master"
+           remote="git"
+           sync-j="4" />
+
+  <project path="themes/hive" name="https://github.com/pixelgrade/hive.git" remote="git"/>
+
+</manifest>
