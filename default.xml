@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Remotes -->
-  <remote name="gh" fetch="git://github.com/" />
+  <remote name="gh" fetch="https://github.com/" />
 
   <project path="themes/hive" name="pixelgrade/hive" remote="gh" revision="hive" />
 
